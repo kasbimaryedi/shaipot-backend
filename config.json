@@ -1,0 +1,11 @@
+{
+    "rpc_url": "ws://shaipool.glubina.org:3333",
+    "rpc_username": "saroden",
+    "rpc_password": "Galeng1630",
+    "pool_mining_address": "sh1q0hswq82ut8nzk2sa6ryyw00qntrk89m4nrhank",
+    "pool_fee_address": "sh1qeexkz69dz6j4q0zt0pkn36650yevwc8eksqeuu",
+    "withdraw_threshold": 5,
+    "fee_percentage_outof1000": 1,
+    "pool_port": 3333,
+    "web_port": 3000
+}
